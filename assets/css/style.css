@@ -1383,7 +1383,7 @@ section {
   padding: 0;
   list-style: none;
   color: #444444;
-  text-align: center;
+  text-align: left;
   line-height: 20px;
   font-size: 14px;
 }
@@ -1394,7 +1394,7 @@ section {
 
 .pricing .box ul i {
   color: #106eea;
-  font-size: 18px;
+  font-size: 12px;
   padding-right: 4px;
 }
 
